@@ -1,0 +1,10 @@
+HELO localhost
+MAIL FROM:<test@test.com>
+RCPT TO:<xxx@yyy.com>
+DATA
+From: test@test.com
+Subject: Send mail from oci cloud
+To: xxx@yyy.com
+test for smtp-gateway
+.
+QUIT

@@ -1,0 +1,7 @@
+发件人：	test@test.com 通过“nrt1.rp.oracleemaildelivery.com”
+收件人：	xxx@yyy.com
+日期：	2022年10月29日 20:33
+主题：	Send mail from oci cloud
+邮送域：nrt1.rp.oracleemaildelivery.com
+署域：	nrt1.rp.oracleemaildelivery.com
+安全性：	 标准加密 (TLS) 
